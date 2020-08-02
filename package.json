@@ -11,10 +11,7 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gndx/platzi-store.git"
-  },
+  "repository": {},
   "keywords": [
     "React",
     "Webpack",
